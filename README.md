@@ -5,9 +5,7 @@ Built a web application in React to visualize sorting algorithms. Also implement
 `npm install` then `npm start`
 
 # Available Algorithms
-Insertion Sort\
-Merge Sort\
-Quick Sort
+`Insertion Sort` | `Merge Sort` | `Quick Sort`
 
 # Still have to implement
 Bubble Sort\
